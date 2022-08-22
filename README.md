@@ -6,3 +6,7 @@ Based on R's model of getting data, using the BatchGetSymbols library, using Pyt
 The code could be optimized, still making use of classic models like Markowitz 1952 and Black-Litterman.
 
 See the pyportfolioopt library to see very efficient and more complete modules in this type of analysis: https://pypi.org/project/pyportfolioopt/#an-overview-of-classical-portfolio-optimization-methods
+
+https://courses.csail.mit.edu/6.867/wiki/images/a/a7/Qp-cvxopt.pdf
+https://github.com/robertmartin8/PyPortfolioOpt
+https://rpubs.com/adriano/quadprog
